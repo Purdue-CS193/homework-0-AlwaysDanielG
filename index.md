@@ -4,7 +4,7 @@
 - **Easy to understand lectures**
 - _Little_ **homework which won't interfere with other classes and other activites**
 
-!<img width="1080" height="529" alt="image" src="https://github.com/user-attachments/assets/16d9f4b2-f34d-415c-92c3-3b6fdfc2373e" />
+<img width="1080" height="529" alt="image" src="https://github.com/user-attachments/assets/16d9f4b2-f34d-415c-92c3-3b6fdfc2373e" />
 
 ```markdown
 Numbered Lists:
